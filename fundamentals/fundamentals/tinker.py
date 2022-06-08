@@ -7,4 +7,3 @@ b = multiply(a,5)
 print(b)
 # output:
 #[2,4,10,16]
-
